@@ -1,0 +1,21 @@
+Existing Problem
+Our clients, Coffee Express Ltd., is an SME specializing on serving coffee and beverages including Latte, Cappuccino, Espresso 
+and hot chocolate at Downtown Vancouver in Canada. Recently, they approach to us and express their interests in expending their 
+branches in a city of the world’s leading financial center in North America, in particular to either New York or Toronto. Both 
+cities are the financial capitals with many skyscrapers and businessmen where the local demands of morning beverages remain high. 
+However, it is difficult for Coffee Express Ltd. to make the decision on the best location for their expansion since they are not 
+familiar with the demographics in both cities. 
+
+Data Description
+We can gather demographic data from the official census authorities about the population and income groups in both cities. 
+After having comparison on the potential customer groups between New York and Toronto, we further explore the neighborhoods data 
+from Foursquare API and apply Neighborhood Segmentation and Clustering to prioritize the best coffee shop locations in either one 
+of the cities based on the foot traffic and types of competitors. Finally, we can conclude the best city and location for Coffee 
+Express Ltd. to start their expansion.
+
+Deliverables
+I.	Market analysis for Coffee Express Ltd.
+II.	Top 10 locations suggested for expansion
+
+Conclusion
+The deliverables can help Coffee Express Ltd. to determine whether it is recommendable to expend their network at either New York or Toronto. If yes, we will further provide a list of suggestion about the top 10 locations for expansion.
